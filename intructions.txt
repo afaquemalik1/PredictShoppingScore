@@ -1,0 +1,11 @@
+The project is about Prediction of Shopping Score based on Salaray 
+Make sure you have python installed.
+
+Installation:
+- Using cmd navigate to the project directory and execute this command "pip install -r requirements.txt".
+
+How to use:
+- Using cmd navigate to the project directory and execute this command "python main.py".
+
+
+NOTE: Make sure during the execution the Mall_Customers.csv file is closed.
